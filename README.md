@@ -10,7 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ravindu mallikarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravindu mallikarachchi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravindu mallikarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravindu mallikarachchi" height="30" width="40" /></a>
+<a href="https://fb.com/ravindu mallikarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu mallikarachchi" height="30" width="40" /></a>
+<a href="https://instagram.com/r_dilsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_dilsh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rdmallikarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rdmallikarachchi" height="30" width="40" /></a>
 </p>
 <br>
 <p>
