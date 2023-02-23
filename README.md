@@ -1,4 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://user-images.githubusercontent.com/87200819/220870956-b504cd4e-b948-4cdf-8ca2-ed69513656f5.gif)
+
+
 <h1 align="center">Hi 👋, I'm Ravindu Mallikarachchi</h1>
 <h3 align="center">Undergraduate from NSBM</h3>
 
