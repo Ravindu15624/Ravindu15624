@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fawesome-github-profiles&psig=AOvVaw0jm6yKMsKmqvPtbVZQfTWJ&ust=1677230685800000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIik6qupq_0CFQAAAAAdAAAAABAS))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Ravindu Mallikarachchi</h1>
 <h3 align="center">Undergraduate from NSBM</h3>
 
