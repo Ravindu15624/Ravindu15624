@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Photoshop, Illustrator.**
 
-- 👯 I’m looking to collaborate on **Mobile Application Development**
+- 👯 I’m looking to collaborate on **Mobile Application <br>Development**
 
 - 🤝 I’m looking for help with **SURGE**
 
