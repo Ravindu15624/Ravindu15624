@@ -5,6 +5,19 @@
 <h1 align="center">Hi 👋, I'm Ravindu Mallikarachchi</h1>
 <h3 align="center">Undergraduate from NSBM</h3>
 
+- 🔭 I’m currently working on **Advanced Database Management Projectoject**
+
+- 🌱 I’m currently learning **Flutter, Photoshop, Illustrator.**
+
+- 👯 I’m looking to collaborate on **Mobile Application Development**
+
+- 🤝 I’m looking for help with **SURGE**
+
+- 📫 How to reach me **rd.mallikarachchi@gmail.com**
+
+- ⚡ Fun fact **Bla Bla**
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
