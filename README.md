@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Advanced Database Management Projectoject**
+- 🔭 I’m currently working on **Enterprise Application Development Project**
 
 - 🌱 I’m currently learning **Flutter, Photoshop, Illustrator.**
 
